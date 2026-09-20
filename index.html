@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Aayan Rehman</title>
-<meta name="description" content="Aayan Rehman — building AI automations at Voya Financial and Waterfall Growth.">
+<meta name="description" content="Aayan Rehman, building AI automations at Voya Financial and Waterfall Growth.">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%23F26B1D'/></svg>">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -30,6 +30,8 @@
   .item:last-child{border-bottom:1px solid var(--line)}
   .item .meta{font-size:.85rem;color:var(--muted);margin-bottom:6px}
   .item p{font-size:.95rem}
+  .item ul{margin:8px 0 0 18px;font-size:.95rem}
+  .item li{margin-top:4px}
   form{display:grid;gap:12px}
   input,textarea{font:inherit;width:100%;padding:12px 14px;border:1px solid var(--line);border-radius:8px;background:#fafafa;color:var(--ink)}
   input:focus,textarea:focus{outline:none;border-color:var(--orange);background:#fff}
@@ -61,13 +63,19 @@
     <h2>Now</h2>
     <div class="item">
       <h3>Waterfall Growth</h3>
-      <div class="meta">Founder · <a href="https://waterfallgrowth.com" target="_blank" rel="noopener">waterfallgrowth.com</a></div>
-      <p>AI-native agency. We scale the authority of independent education consultants and work with enterprise education firms to automate processes — saving time and increasing revenue.</p>
+      <div class="meta">AI growth consulting · <a href="https://waterfallgrowth.com" target="_blank" rel="noopener">waterfallgrowth.com</a></div>
+      <p>AI-native agency. We scale the authority of independent education consultants and help enterprise education firms automate their processes to save time and increase revenue.</p>
     </div>
     <div class="item">
       <h3>Voya Financial</h3>
-      <div class="meta">Sales Strategy Intern · Windsor, CT · 2026 – Present</div>
-      <p>Built RFP-prep workflows, a pricing-proposal agent, and a Salesforce cost-comparison agent in Power Automate and Copilot Studio — replacing manual document assembly and spreadsheet math. Shipped Power BI dashboards and documented data-governance protocols for the team.</p>
+      <div class="meta">Sales Strategy Intern · Windsor, CT · 2026 to Present</div>
+      <p>Automated the sales proposal process end to end with Power Automate and Copilot:</p>
+      <ul>
+        <li>Intake agent that pulls source files from shared drives and drafts the RFP brief</li>
+        <li>Pricing agent that calculates proposals directly from the intake data</li>
+        <li>Cost comparison agent that gives the team one view across vendors</li>
+        <li>Client-facing materials generated from the same pipeline, no manual assembly</li>
+      </ul>
     </div>
   </section>
 
@@ -81,7 +89,12 @@
     <div class="item">
       <h3><a href="https://github.com/aayanrehh/casesprint-ai" target="_blank" rel="noopener">CaseSprint AI</a></h3>
       <div class="meta">Python · Streamlit</div>
-      <p>Case-competition copilot — research plan, issue tree, storyline, timed speaker scripts. Used to place 1st of 50 teams in the EY TechX round.</p>
+      <p>Case-competition copilot that turns a prompt into a research plan, issue tree, storyline, and timed speaker scripts. Used to place 1st of 50 teams in the EY TechX round.</p>
+    </div>
+    <div class="item">
+      <h3>Noshore</h3>
+      <div class="meta">AI · Insurance · Video</div>
+      <p>Video series on applied AI in insurance: multi-agent orchestration, agentic workflows, RAG over policy documents, and LLM evals for underwriting and claims.</p>
     </div>
   </section>
 
@@ -102,7 +115,7 @@
       <textarea name="message" placeholder="What's on your mind?" required></textarea>
       <button type="submit">Send</button>
     </form>
-    <p class="muted" id="sent" hidden style="margin-top:12px">Thanks — I'll get back to you soon.</p>
+    <p class="muted" id="sent" hidden style="margin-top:12px">Thanks, I'll get back to you soon.</p>
   </section>
 
   <footer>© 2026 Aayan Rehman</footer>
