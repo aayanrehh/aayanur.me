@@ -1,0 +1,6 @@
+{
+  "name": "aayanur-me",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@anthropic-ai/sdk": "^0.80.0" }
+}

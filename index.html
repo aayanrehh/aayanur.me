@@ -40,6 +40,27 @@
   textarea{min-height:120px;resize:vertical}
   button{font:inherit;font-weight:600;padding:12px 22px;border:0;border-radius:8px;background:var(--orange);color:#fff;cursor:pointer;justify-self:start}
   button:hover{filter:brightness(.93)}
+  /* chat rail */
+  #ask{position:fixed;right:32px;top:72px;width:300px;max-height:calc(100vh - 104px);display:flex;flex-direction:column;border:1px solid var(--line);border-radius:14px;background:#fff;box-shadow:0 8px 30px rgba(0,0,0,.05)}
+  #ask header{padding:14px 16px;border-bottom:1px solid var(--line);font-size:.8rem;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--orange);display:flex;justify-content:space-between;align-items:center}
+  #ask header button{background:none;color:var(--muted);padding:0;font-size:1.1rem;line-height:1;display:none}
+  #log{flex:1;overflow-y:auto;padding:14px 16px;display:flex;flex-direction:column;gap:10px;font-size:.9rem;min-height:180px}
+  #log .m{max-width:90%;padding:8px 12px;border-radius:12px;line-height:1.45;white-space:pre-wrap}
+  #log .u{align-self:flex-end;background:var(--orange);color:#fff;border-bottom-right-radius:4px}
+  #log .a{align-self:flex-start;background:#f5f5f5;border-bottom-left-radius:4px}
+  #log .hint{color:var(--muted);font-size:.85rem}
+  #log .hint button{background:none;color:var(--orange);padding:0;font-weight:500;display:block;margin-top:4px;text-align:left}
+  #ask form{display:flex;gap:8px;padding:12px;border-top:1px solid var(--line)}
+  #ask input{padding:10px 12px;font-size:.9rem}
+  #ask form button{padding:10px 14px}
+  #askfab{display:none;position:fixed;right:20px;bottom:20px;border-radius:999px;padding:12px 18px;box-shadow:0 6px 20px rgba(242,107,29,.35)}
+  @media (max-width:1080px){
+    #ask{display:none;right:16px;left:16px;bottom:16px;top:auto;width:auto;max-height:70vh}
+    #ask.open{display:flex}
+    #ask header button{display:block}
+    #askfab{display:block}
+    #ask.open~#askfab{display:none}
+  }
   footer{margin-top:72px;font-size:.8rem;color:var(--muted)}
   @media (max-width:480px){.hero{flex-direction:column;align-items:flex-start;gap:20px}h1{font-size:1.7rem}}
 </style>
@@ -122,6 +143,36 @@
 
   <footer>© 2026 Aayan Rehman</footer>
 </main>
+<aside id="ask" aria-label="Ask about Aayan">
+  <header>Ask me anything <button type="button" onclick="ask.classList.remove('open')" aria-label="Close">&times;</button></header>
+  <div id="log">
+    <div class="hint">I'm an AI that knows Aayan's work. Try:
+      <button type="button" onclick="send(this.textContent)">What did you build at Voya?</button>
+      <button type="button" onclick="send(this.textContent)">What is WaterfallGrowth?</button>
+      <button type="button" onclick="send(this.textContent)">What is KnowSure?</button>
+    </div>
+  </div>
+  <form onsubmit="event.preventDefault();send(q.value);q.value=''">
+    <input id="q" placeholder="Ask a question" maxlength="500" autocomplete="off" required>
+    <button type="submit">Ask</button>
+  </form>
+</aside>
+<button id="askfab" type="button" onclick="ask.classList.add('open');q.focus()">Ask AI</button>
+<script>
+const API='https://aayanur-me.vercel.app/api/chat', hist=[];
+function add(t,c){const d=document.createElement('div');d.className='m '+c;d.textContent=t;log.appendChild(d);log.scrollTop=log.scrollHeight;return d}
+async function send(t){
+  t=t.trim(); if(!t) return;
+  log.querySelector('.hint')?.remove();
+  add(t,'u'); hist.push({role:'user',content:t});
+  const a=add('…','a');
+  try{
+    const r=await fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({messages:hist})});
+    const j=await r.json(); a.textContent=j.text||j.error||'Something went wrong';
+    if(j.text) hist.push({role:'assistant',content:j.text});
+  }catch{a.textContent='Network error, try again'}
+}
+</script>
 <script>if(location.search.includes('sent=1'))document.getElementById('sent').hidden=false</script>
 </body>
 </html>
