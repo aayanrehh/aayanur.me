@@ -1,38 +1,116 @@
 # Aayan Rehman
 
-I build AI automations that save teams time and make businesses money.
+AI Business Analyst and automation builder. I turn manual business processes into automated, agent-driven workflows that save teams time and increase revenue.
+
+Seeking: Business Analyst, AI Business Analyst, AI/ML Product Analyst, Systems Analyst, Automation Analyst, Data Analyst, Solutions Analyst, Technology Consulting, and AI Strategy internships and full-time roles (Summer 2027 internship, 2028 graduate hire). Open to insurance, financial services, fintech, insurtech, consulting, enterprise SaaS, and edtech. Based in Connecticut and Binghamton, NY. Open to NYC, Boston, Hartford, remote, hybrid, and relocation. U.S. Permanent Resident, no sponsorship required.
 
 - Site: https://aayanur.me
+- Markdown: https://aayanur.me/aayan.md
+- Email: arehman13@binghamton.edu
 - YouTube: https://youtube.com/@aayanrehmanai
 - GitHub: https://github.com/aayanrehh
 - LinkedIn: https://linkedin.com/in/aayanur
 - X: https://x.com/aayanrehh1
-- Contact: https://aayanur.me/#contact
+- Contact form: https://aayanur.me/#contact
 
-## Now
+## Summary
 
-### WaterfallGrowth (https://waterfallgrowth.com)
-AI growth consulting. AI-native agency that scales the authority of independent education consultants and helps enterprise education firms automate their processes to save time and increase revenue.
+Business Administration student (Management Information Systems concentration) at Binghamton University with hands-on experience delivering AI automation and business analysis in an enterprise financial services environment. Comfortable across the full analyst lifecycle: stakeholder interviews, requirements gathering, process mapping, gap analysis, solution design, build, UAT, documentation, and change management. Combines business acumen with technical delivery: Python, SQL, Power Automate, Copilot Studio, Power BI, LLM agent design, and prompt engineering. AWS Certified AI Practitioner. Founder of an AI-native consulting agency.
 
-### Voya Financial (https://www.voya.com)
-Sales Strategy Intern, Windsor, CT, 2026 to present. Automated the sales proposal process end to end with Power Automate and Copilot:
-- Intake agent that pulls source files from shared drives and drafts the RFP brief
-- Pricing agent that calculates proposals directly from the intake data
-- Cost comparison agent that gives the team one view across vendors
-- Client-facing materials generated from the same pipeline, no manual assembly
+## Core Competencies
+
+**Business Analysis:** requirements elicitation, user stories, acceptance criteria, BRD/FRD, process mapping (as-is / to-be), BPMN, swimlane diagrams, gap analysis, root cause analysis, stakeholder management, UAT planning, SDLC, Agile/Scrum, Kanban, sprint planning, backlog grooming, Jira, Confluence, use cases, RACI, KPI definition, business case development, ROI analysis, change management, SOP documentation.
+
+**AI and Automation:** LLM application design, AI agents, multi-agent orchestration, agentic workflows, retrieval-augmented generation (RAG), prompt engineering, system prompts, tool use and function calling, LLM evaluation (evals), guardrails, human-in-the-loop design, deterministic vs. probabilistic system boundaries, AI governance, responsible AI, model selection, Anthropic Claude, Claude Code, OpenAI GPT, Microsoft Copilot, Copilot Studio agents, Power Automate cloud flows, Robotic Process Automation (RPA), intelligent document processing, workflow automation, hyperautomation, n8n, Zapier, Make.
+
+**Data and Analytics:** SQL (joins, window functions, aggregations, CTEs, schema design), Python (pandas, FastAPI, pytest), ETL/ELT pipelines, data profiling, data quality, data modeling, relational databases (SQLite, PostgreSQL, Supabase), Power BI (DAX, data models, dashboards), Tableau, Advanced Excel (pivot tables, Power Query, XLOOKUP, scenario modeling), KPI dashboards, reporting automation.
+
+**Cloud and Tools:** AWS (AI/ML services, Bedrock, S3, Lambda fundamentals), Microsoft 365, Power Platform (Power Automate, Power Apps, Power BI, Copilot Studio, Dataverse), SharePoint, Salesforce (data querying, reports), Git, GitHub, GitHub Actions CI/CD, Streamlit, Vercel, REST APIs, JSON, Markdown.
+
+**Domain Knowledge:** insurance (P&C, underwriting, claims, submissions, guideline rules, risk assessment, MGAs, carriers), financial services, retirement and benefits, sales operations, RFP and proposal process, pricing, vendor cost analysis, sales strategy, go-to-market, education consulting, edtech.
+
+## Experience
+
+### Voya Financial, Sales Strategy Intern
+Windsor, CT. Summer 2026 to present. https://www.voya.com
+
+Business analyst and automation builder on the Sales Strategy team, supporting the ABA sales organization. Owned discovery through delivery for an end-to-end automation of the sales proposal process using Power Automate and Microsoft Copilot / Copilot Studio.
+
+- Interviewed sales, pricing, and operations stakeholders to map the as-is RFP and proposal process, identified manual handoffs and rework, and documented to-be workflows with clear requirements and acceptance criteria.
+- Built an intake agent (Power Automate) that scans shared cloud drives, extracts source files, and auto-populates templated RFP brief documents, replacing manual document assembly.
+- Built a pricing proposal agent (Power Automate + Copilot Studio) that calculates pricing directly from intake data, removing manual spreadsheet math and reducing proposal turnaround time.
+- Built a cost comparison agent that queries vendor and service pricing data and compares costs across sources, giving the team a single view for pricing decisions.
+- Generated client-facing materials from the same automated pipeline so intake, pricing, comparison, and deliverables flow end to end without manual re-entry.
+- Built Power BI dashboards on standardized data models to track stakeholder relationships and KPIs for operational planning.
+- Authored confidential-data governance and access-control protocols for team-wide use, supporting responsible AI and data-use compliance.
+- Ran UAT with end users, iterated on feedback, and wrote SOPs and handoff documentation so the workflows are maintainable after the internship.
+
+Keywords: business process automation, process improvement, requirements gathering, stakeholder management, sales operations, sales enablement, proposal automation, RFP automation, pricing automation, Copilot Studio, Power Automate, Power BI, Salesforce, data governance, AI governance, enterprise AI adoption, financial services, insurance, retirement benefits.
+
+### WaterfallGrowth, AI Growth Consulting
+https://waterfallgrowth.com
+
+AI-native consulting agency. We scale the authority of independent education consultants and help enterprise education firms automate their processes to save time and increase revenue.
+
+- Run discovery and process audits for education businesses, identify high-leverage automation opportunities, and scope AI solutions with clear ROI.
+- Design and deploy AI agents and workflow automations for lead generation, content production, CRM and pipeline management, client onboarding, and reporting.
+- Build authority and demand-generation systems (content, outbound, LinkedIn automation) for independent consultants.
+- Own client communication, project scoping, delivery, and measurement end to end.
+
+Keywords: AI consulting, AI strategy, growth consulting, automation consulting, agentic CRM, lead generation automation, LinkedIn automation, content automation, edtech, education consulting, enterprise education, B2B, client delivery, founder.
 
 ## Projects
 
-### UnderwriteIQ (https://github.com/aayanrehh/underwriteiq)
-Python, SQL, FastAPI. Deterministic insurance risk-assessment engine: rule evaluation, weighted scoring, accept/refer/decline output. LLMs only draft summaries from testable results.
+### UnderwriteIQ, Insurance Risk-Assessment Engine
+Python, SQL, SQLite, FastAPI, pytest, GitHub Actions. https://github.com/aayanrehh/underwriteiq
 
-### CaseSprint AI (https://github.com/aayanrehh/casesprint-ai)
-Python, Streamlit. Case-competition copilot that turns a prompt into a research plan, issue tree, storyline, and timed speaker scripts. Used to place 1st of 50 teams in the EY TechX round.
+- Engineered a deterministic submission-assessment pipeline: schema validation, guideline-rule evaluation across nine comparison operators, and a weighted scoring model that outputs accept / refer / decline recommendations from structured insurance data.
+- Designed a relational schema (submissions, guideline_rules, assessments) with foreign keys and indexes; underwriting rules are configurable rows, not code changes.
+- Exposed the engine as a FastAPI service (POST /assess) with 14 unit tests plus a CLI smoke test running in GitHub Actions CI on every push.
+- LLM use is confined to drafting summaries from testable outputs, a clear separation of deterministic logic from probabilistic generation.
 
-### KnowSure (https://github.com/aayanrehh/KnowSure)
-AI video, insurance education. AI-generated insurance education series with recurring characters and running storylines. Multi-agent orchestration handles scripting, prompt generation, and video production end to end, built for B2B licensing to carriers and MGAs.
+Keywords: underwriting automation, insurance risk scoring, rules engine, decision engine, insurtech, API design, test-driven development, CI/CD, responsible AI.
 
-## Background
+### CaseSprint AI, Case-Competition Copilot
+Python, Streamlit, GitHub Actions. https://github.com/aayanrehh/casesprint-ai
 
-B.S. Business Administration (MIS), Binghamton University, expected 2028.
-Certifications: AWS Certified AI Practitioner, Anthropic AI Fluency, AINS (Associate in Insurance).
+- Built a copilot that turns a case prompt into a sourced research plan, MECE issue tree, executive storyline, and timed multi-speaker presentation script.
+- Separated LLM judgment from deterministic Python: scripts enforce source traceability, workspace structure, and presentation timing, validated by unit tests in CI.
+- Productized the research-to-presentation workflow used to place first among 50 teams in the EY TechX round of a Binghamton case competition.
+
+Keywords: consulting frameworks, MECE, issue trees, hypothesis-driven problem solving, structured communication, executive storytelling, LLM application, agent workflow, prompt engineering.
+
+### KnowSure, AI Insurance Education Series
+AI video, multi-agent pipeline. https://github.com/aayanrehh/KnowSure
+
+- AI-generated insurance education web series with recurring characters and running storylines, teaching P&C insurance concepts in a watchable format.
+- Multi-agent orchestration handles scripting, prompt generation, and video production end to end; agent system prompts and knowledge files keep brand, characters, and technical accuracy consistent across episodes.
+- Built as a B2B content library for licensing to carriers and MGAs, with public social channels as the proof layer. Includes a documented business model and go-to-market plan.
+
+Keywords: generative AI, AI video, multi-agent systems, content automation, insurance education, P&C insurance, B2B licensing, go-to-market, product thinking.
+
+## Education
+
+**Binghamton University, State University of New York**, Binghamton, NY
+B.S. Business Administration, Management Information Systems (MIS) concentration. Expected May 2028.
+Relevant coursework: Database Management, Systems Analysis and Design, Business Analytics.
+
+## Certifications
+
+- AWS Certified AI Practitioner (AIF-C01)
+- AINS, Associate in Insurance (The Institutes)
+- Anthropic AI Fluency
+- Claude Code 101
+
+## Achievements
+
+- 1st place among 50 teams, EY TechX round, Binghamton University case competition.
+- Founded and operate an AI-native consulting agency while a full-time student.
+
+## Working style
+
+Hypothesis-driven, documentation-first, and biased toward shipping. I map the process before automating it, keep deterministic logic separate from LLM judgment, write tests for anything that touches money or compliance, and leave SOPs behind so teams can own what I build.
+
+## Frequently searched terms
+
+business analyst intern, BA intern, AI business analyst, AI analyst, business systems analyst, IT business analyst, technical business analyst, product analyst, systems analyst, data analyst intern, automation analyst, AI product intern, AI strategy intern, technology consulting intern, digital transformation, process automation, intelligent automation, hyperautomation, generative AI, GenAI, LLM, agentic AI, AI agents, multi-agent orchestration, RAG, prompt engineering, Copilot Studio, Power Automate, Power Platform, Power BI, SQL, Python, Salesforce, AWS, Agile, Scrum, Jira, requirements gathering, process mapping, stakeholder management, UAT, SDLC, insurance, insurtech, fintech, financial services, Voya Financial, Binghamton University, MIS, Summer 2027 internship, Class of 2028, Connecticut, New York, Hartford, NYC, Boston, remote.
