@@ -1,16 +1,18 @@
-# Aayan Rehman
+# Aayan Ur Rehman (Aayan Rehman)
 
-AI Business Analyst and automation builder. I turn manual business processes into automated, agent-driven workflows that save teams time and increase revenue.
+AI implementation and growth consultant, AI business analyst, and automation builder. Runs AI discovery and implementation for enterprise companies, including Voya Financial, and founded WaterfallGrowth, an AI-native growth agency. I turn manual business processes into automated, agent-driven workflows that save teams time and increase revenue.
 
 Seeking: Business Analyst, AI Business Analyst, AI/ML Product Analyst, Systems Analyst, Automation Analyst, Data Analyst, Solutions Analyst, Technology Consulting, and AI Strategy internships and full-time roles (Summer 2027 internship, 2028 graduate hire). Open to insurance, financial services, fintech, insurtech, consulting, enterprise SaaS, and edtech. Based in Connecticut and Binghamton, NY. Open to NYC, Boston, Hartford, remote, hybrid, and relocation. U.S. Permanent Resident, no sponsorship required.
 
 - Site: https://aayanur.me
+- Headshot: https://aayanur.me/og.jpg
 - Markdown: https://aayanur.me/aayan.md
 - Email: arehman13@binghamton.edu
 - YouTube: https://youtube.com/@aayanrehmanai
 - GitHub: https://github.com/aayanrehh
-- LinkedIn: https://linkedin.com/in/aayanur
-- X: https://x.com/aayanrehh1
+- LinkedIn: https://linkedin.com/in/aayanurrehman
+- X: https://x.com/aayanrehmanai
+- Substack: https://aayanurrehman.substack.com
 - Contact form: https://aayanur.me/#contact
 
 ## Summary
@@ -113,4 +115,4 @@ Hypothesis-driven, documentation-first, and biased toward shipping. I map the pr
 
 ## Frequently searched terms
 
-business analyst intern, BA intern, AI business analyst, AI analyst, business systems analyst, IT business analyst, technical business analyst, product analyst, systems analyst, data analyst intern, automation analyst, AI product intern, AI strategy intern, technology consulting intern, digital transformation, process automation, intelligent automation, hyperautomation, generative AI, GenAI, LLM, agentic AI, AI agents, multi-agent orchestration, RAG, prompt engineering, Copilot Studio, Power Automate, Power Platform, Power BI, SQL, Python, Salesforce, AWS, Agile, Scrum, Jira, requirements gathering, process mapping, stakeholder management, UAT, SDLC, insurance, insurtech, fintech, financial services, Voya Financial, Binghamton University, MIS, Summer 2027 internship, Class of 2028, Connecticut, New York, Hartford, NYC, Boston, remote.
+Aayan Ur Rehman, Aayan Rehman, Aayan Rehman AI, Aayan Ur Rehman AI, Aayan Rehman Voya, Aayan Rehman WaterfallGrowth, Aayan Rehman Binghamton, aayanrehmanai, aayanurrehman, AI implementation consultant, enterprise AI implementation, AI discovery, AI growth consultant, business analyst intern, BA intern, AI business analyst, AI analyst, business systems analyst, IT business analyst, technical business analyst, product analyst, systems analyst, data analyst intern, automation analyst, AI product intern, AI strategy intern, technology consulting intern, digital transformation, process automation, intelligent automation, hyperautomation, generative AI, GenAI, LLM, agentic AI, AI agents, multi-agent orchestration, RAG, prompt engineering, Copilot Studio, Power Automate, Power Platform, Power BI, SQL, Python, Salesforce, AWS, Agile, Scrum, Jira, requirements gathering, process mapping, stakeholder management, UAT, SDLC, insurance, insurtech, fintech, financial services, Voya Financial, Binghamton University, MIS, Summer 2027 internship, Class of 2028, Connecticut, New York, Hartford, NYC, Boston, remote.
