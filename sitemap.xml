@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://aayanrehman.com/</loc>
+    <lastmod>2026-09-20</lastmod>
+    <image:image>
+      <image:loc>https://aayanrehman.com/og.jpg</image:loc>
+      <image:title>Aayan Ur Rehman</image:title>
+      <image:caption>Headshot of Aayan Ur Rehman, AI implementation and growth consultant</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://aayanrehman.com/aayan.md</loc>
+    <lastmod>2026-09-20</lastmod>
+  </url>
+</urlset>
