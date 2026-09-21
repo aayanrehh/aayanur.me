@@ -4,16 +4,16 @@ AI implementation and growth consultant, AI business analyst, and automation bui
 
 Seeking: Business Analyst, AI Business Analyst, AI/ML Product Analyst, Systems Analyst, Automation Analyst, Data Analyst, Solutions Analyst, Technology Consulting, and AI Strategy internships and full-time roles (Summer 2027 internship, 2028 graduate hire). Open to insurance, financial services, fintech, insurtech, consulting, enterprise SaaS, and edtech. Based in Connecticut and Binghamton, NY. Open to NYC, Boston, Hartford, remote, hybrid, and relocation. U.S. Permanent Resident, no sponsorship required.
 
-- Site: https://aayanur.me
-- Headshot: https://aayanur.me/og.jpg
-- Markdown: https://aayanur.me/aayan.md
+- Site: https://aayanrehman.com
+- Headshot: https://aayanrehman.com/og.jpg
+- Markdown: https://aayanrehman.com/aayan.md
 - Email: arehman13@binghamton.edu
 - YouTube: https://youtube.com/@aayanrehmanai
 - GitHub: https://github.com/aayanrehh
 - LinkedIn: https://linkedin.com/in/aayanurrehman
 - X: https://x.com/aayanrehmanai
 - Substack: https://aayanurrehman.substack.com
-- Contact form: https://aayanur.me/#contact
+- Contact form: https://aayanrehman.com/#contact
 
 ## Summary
 
