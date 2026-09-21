@@ -9,7 +9,7 @@ Seeking: Business Analyst, AI Business Analyst, AI/ML Product Analyst, Systems A
 - Markdown: https://aayanrehman.com/aayan.md
 - Email: arehman13@binghamton.edu
 - YouTube: https://youtube.com/@aayanrehmanai
-- GitHub: https://github.com/aayanrehh
+- GitHub: https://github.com/aayanrehman
 - LinkedIn: https://linkedin.com/in/aayanurrehman
 - X: https://x.com/aayanrehmanai
 - Substack: https://aayanurrehman.substack.com
@@ -64,7 +64,7 @@ Keywords: AI consulting, AI strategy, growth consulting, automation consulting, 
 ## Projects
 
 ### UnderwriteIQ, Insurance Risk-Assessment Engine
-Python, SQL, SQLite, FastAPI, pytest, GitHub Actions. https://github.com/aayanrehh/underwriteiq
+Python, SQL, SQLite, FastAPI, pytest, GitHub Actions. https://github.com/aayanrehman/underwriteiq
 
 - Engineered a deterministic submission-assessment pipeline: schema validation, guideline-rule evaluation across nine comparison operators, and a weighted scoring model that outputs accept / refer / decline recommendations from structured insurance data.
 - Designed a relational schema (submissions, guideline_rules, assessments) with foreign keys and indexes; underwriting rules are configurable rows, not code changes.
@@ -74,7 +74,7 @@ Python, SQL, SQLite, FastAPI, pytest, GitHub Actions. https://github.com/aayanre
 Keywords: underwriting automation, insurance risk scoring, rules engine, decision engine, insurtech, API design, test-driven development, CI/CD, responsible AI.
 
 ### CaseSprint AI, Case-Competition Copilot
-Python, Streamlit, GitHub Actions. https://github.com/aayanrehh/casesprint-ai
+Python, Streamlit, GitHub Actions. https://github.com/aayanrehman/casesprint-ai
 
 - Built a copilot that turns a case prompt into a sourced research plan, MECE issue tree, executive storyline, and timed multi-speaker presentation script.
 - Separated LLM judgment from deterministic Python: scripts enforce source traceability, workspace structure, and presentation timing, validated by unit tests in CI.
@@ -83,7 +83,7 @@ Python, Streamlit, GitHub Actions. https://github.com/aayanrehh/casesprint-ai
 Keywords: consulting frameworks, MECE, issue trees, hypothesis-driven problem solving, structured communication, executive storytelling, LLM application, agent workflow, prompt engineering.
 
 ### KnowSure, AI Insurance Education Series
-AI video, multi-agent pipeline. https://github.com/aayanrehh/KnowSure
+AI video, multi-agent pipeline. https://github.com/aayanrehman/KnowSure
 
 - AI-generated insurance education web series with recurring characters and running storylines, teaching P&C insurance concepts in a watchable format.
 - Multi-agent orchestration handles scripting, prompt generation, and video production end to end; agent system prompts and knowledge files keep brand, characters, and technical accuracy consistent across episodes.
@@ -116,3 +116,23 @@ Hypothesis-driven, documentation-first, and biased toward shipping. I map the pr
 ## Frequently searched terms
 
 Aayan Ur Rehman, Aayan Rehman, Aayan Rehman AI, Aayan Ur Rehman AI, Aayan Rehman Voya, Aayan Rehman WaterfallGrowth, Aayan Rehman Binghamton, aayanrehmanai, aayanurrehman, AI implementation consultant, enterprise AI implementation, AI discovery, AI growth consultant, business analyst intern, BA intern, AI business analyst, AI analyst, business systems analyst, IT business analyst, technical business analyst, product analyst, systems analyst, data analyst intern, automation analyst, AI product intern, AI strategy intern, technology consulting intern, digital transformation, process automation, intelligent automation, hyperautomation, generative AI, GenAI, LLM, agentic AI, AI agents, multi-agent orchestration, RAG, prompt engineering, Copilot Studio, Power Automate, Power Platform, Power BI, SQL, Python, Salesforce, AWS, Agile, Scrum, Jira, requirements gathering, process mapping, stakeholder management, UAT, SDLC, insurance, insurtech, fintech, financial services, Voya Financial, Binghamton University, MIS, Summer 2027 internship, Class of 2028, Connecticut, New York, Hartford, NYC, Boston, remote.
+
+## FAQ
+
+**Who is Aayan Ur Rehman?**
+Aayan Ur Rehman (also written Aayan Rehman) is an AI implementation and growth consultant based in Connecticut. He runs AI discovery and implementation for enterprise companies, currently at Voya Financial, and founded WaterfallGrowth, an AI-native growth agency for education consultants and enterprise education firms. He studies Management Information Systems at Binghamton University (Class of 2028).
+
+**What does Aayan Rehman do with AI?**
+He maps business processes, identifies where AI and automation create measurable time savings and revenue, then designs and ships the solution: LLM agents, multi-agent orchestration, RAG, and workflow automation built with Power Automate, Copilot Studio, Python, and Claude. At Voya Financial he automated the sales proposal process end to end with intake, pricing, and cost comparison agents.
+
+**What is WaterfallGrowth?**
+WaterfallGrowth (waterfallgrowth.com) is Aayan's AI-native consulting agency. It scales the authority of independent education consultants and helps enterprise education firms implement AI to automate processes, save time, and increase revenue.
+
+**What is Aayan Rehman's background?**
+B.S. Business Administration, MIS concentration, Binghamton University. AWS Certified AI Practitioner, Anthropic AI Fluency, Claude Code 101, and AINS (Associate in Insurance). First place of 50 teams in the EY TechX case competition round.
+
+**How do I contact Aayan Rehman?**
+Contact form at https://aayanrehman.com/#contact, or LinkedIn at https://linkedin.com/in/aayanurrehman.
+
+**Where can I find Aayan Rehman online?**
+Website https://aayanrehman.com, LinkedIn https://linkedin.com/in/aayanurrehman, GitHub https://github.com/aayanrehman, YouTube https://youtube.com/@aayanrehmanai, X https://x.com/aayanrehmanai, Substack https://aayanurrehman.substack.com.
